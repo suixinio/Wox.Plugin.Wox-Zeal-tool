@@ -1,0 +1,12 @@
+{
+    "ID":"18f9f894-b674-4db9-b77b-77c51e347063",
+    "ActionKeyword":"zl",
+    "Name":"Wox-Zeal-tool",
+    "Description":"Wox-Zeal-tool @https://blog.suixin.kim",
+    "Author":"suixin",
+    "Version":"0.1",
+    "Language":"python",
+    "Website":"https://blog.suixin.kim",
+    "IcoPath":"Images\\app_zeal.png",
+    "ExecuteFileName":"main.py"
+}
